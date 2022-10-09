@@ -1,4 +1,6 @@
 // link to the problem :   https://leetcode.com/problems/3sum-closest/
+// Runtime: 668 ms
+// Memory Usage: 16.4 MB
 
 class Solution {
 public:
